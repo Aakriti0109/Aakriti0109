@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aakriti0109" alt="Aakriti0109" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script, Python etc.**
+- 🌱 I’m currently learning **Java, Python, JS, Android Development etc.**
 
 - 📫 How to reach me **aakritis414@gmail.com**
 
