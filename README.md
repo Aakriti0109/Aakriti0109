@@ -70,9 +70,9 @@ Collection of beginner to intermediate C++ projects including:
 
 🔗 GitHub: https://github.com/Aakriti0109  
 
-🔗 LinkedIn: *(Add your LinkedIn URL here)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/aakriti-singh01)*
 
-📧 Email: *aakritis414@gmail.com*
+📧 Email: *(aakritis414@gmail.com)*
 
 ---
 
