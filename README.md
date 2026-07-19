@@ -34,8 +34,8 @@
 - Git & GitHub
 - SQL
 - VS Code
-- Android Studio
 - Tableau *(Learning)*
+- Power BI 
 
 ---
 
