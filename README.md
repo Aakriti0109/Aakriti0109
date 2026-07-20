@@ -19,7 +19,6 @@
   - Data Analytics & AI
   - Android App Development
   - Java Development
-  - Open Source Contribution
 
 ---
 
