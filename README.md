@@ -1,4 +1,4 @@
-# Hi, I'm Aakriti Singh 👋
+# Hola!, I'm Aakriti👋
 
 🎓 B.Tech Computer Science Engineering Student  
 
@@ -8,18 +8,12 @@
 
 ## 🚀 About Me
 
-- 📚 Currently pursuing **B.Tech in Computer Science Engineering**
-- 💼 Data Analytics with AI Intern at **Grras Solutions Pvt. Ltd.**
+- 📚 pursuing **B.Tech in Computer Science Engineering**
 - 🌱 Currently learning:
   - Data Analytics
   - Python Libraries (Pandas, NumPy, Matplotlib)
   - Git & GitHub
   - Android Development
-- 🎯 Interested in:
-  - Data Analytics & AI
-  - Android App Development
-  - Java Development
-
 ---
 
 ## 🛠 Tech Stack
@@ -28,6 +22,7 @@
 - Java
 - Python
 - C++
+- HTML
 
 ### Tools & Technologies
 - Git & GitHub
@@ -37,34 +32,6 @@
 - Power BI 
 
 ---
-
-## 📂 Featured Projects
-
-### 🔹 Student Grade Calculator
-Java application for calculating grades, percentages, and academic performance.
-
-### 🔹 Bank Management System
-Java-based banking application implementing account management features.
-
-### 🔹 C++ Mini Projects
-Collection of beginner to intermediate C++ projects including:
-- Quiz Game
-- Password Generator
-- Plant Care Simulator
-- Checksum Program
-- Outfit Suggestion System
-
----
-
-## 📈 Current Learning Goals
-
-✔ Strengthening **Data Analytics skills**  
-✔ Building **real-world projects**  
-✔ Exploring **Android Development**  
-✔ Preparing for **Open Source Programs & Tech Internships**
-
----
-
 ## 🌐 Connect With Me
 
 🔗 GitHub: https://github.com/Aakriti0109  
