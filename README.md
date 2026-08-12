@@ -1,4 +1,4 @@
-# Hola!, I'm Aakriti👋
+# Hey!, I'm Aakriti👋
 
 🎓 B.Tech Computer Science Engineering Student  
 
