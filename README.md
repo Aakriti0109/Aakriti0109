@@ -13,7 +13,7 @@
   •
   <a href="https://bit.ly/3RQTzn5">Portfolio</a>
   •
-  <a href="YOUR_RESUME_URL">Resume</a>
+  <a href="aakritis414@gmail.com">Email</a>
 </p>
 
 ---
