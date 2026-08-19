@@ -134,15 +134,13 @@ DSA                         ██████████░░░░░░░�
 ## ✦ GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakriti0109&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakriti0109&show_icons=true&hide_border=true&theme=transparent" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakriti0109&hide_border=true&theme=transparent" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakriti0109&layout=compact&hide_border=true&theme=transparent" />
 </p>
-
----
 
 ## ✦ A SMALL PHILOSOPHY
 
