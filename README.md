@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aakriti-singh01">LinkedIn</a>
   •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
   •
