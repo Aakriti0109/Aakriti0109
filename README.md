@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aakriti-singh01">LinkedIn</a>
   •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://bit.ly/3RQTzn5">Portfolio</a>
   •
   <a href="YOUR_RESUME_URL">Resume</a>
 </p>
