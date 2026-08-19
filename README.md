@@ -106,7 +106,7 @@ Finding patterns between:
 
 <td width="50%">
 
-### 🤖 AI Data Analyst
+### 🤖 AI Data Analyst(In Progress)
 
 An AI-powered platform for:
 
