@@ -21,16 +21,16 @@
 
 ```text
 ╭──────────────────────────────────────────────╮
-│                                              
-│   👩‍💻  Computer Science Student             
-│                                              
-│   📊  Data Analytics                         
-│   🤖  Artificial Intelligence                 
-│   💻  Software Development                   
-│                                              
-│   currently → learning • building •        
-│               experimenting                 
-│                                              
+                                            
+   👩‍💻  Computer Science Student             
+                                              
+   📊  Data Analytics                         
+   🤖  Artificial Intelligence                 
+   💻  Software Development                   
+                                              
+   currently → learning • building •        
+               experimenting                 
+                                              
 ╰──────────────────────────────────────────────╯
 ```
 
