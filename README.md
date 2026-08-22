@@ -44,7 +44,7 @@ I'm particularly interested in the space where **Data + AI + Software** meet.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,git,github" />
 
 </p>
 
